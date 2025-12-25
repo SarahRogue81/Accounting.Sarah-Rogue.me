@@ -1,0 +1,3 @@
+[submodule "external/WhatsTheScoop"]
+	path = external/WhatsTheScoop
+	url = git@github.com:SarahRogue81/WhatsTheScoop.git
