@@ -1,6 +1,6 @@
 = it's Christmas time!
 
-:date: 25-12-2025
+:date: 25-12-2025 00:00:00
 :summary: Merry Christmas!!!
 
 [sr-text-centre sr-xxxlarge]
